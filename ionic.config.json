@@ -1,5 +1,8 @@
 {
   "name": "my-io",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "d59c3f39"
 }
